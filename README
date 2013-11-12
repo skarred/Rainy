@@ -1,0 +1,4 @@
+Rainy
+=====
+
+Simple Tomboy/Tomdroid cloud/syncing server. Written in C#. Supports XML or sqlite backend
